@@ -4,13 +4,13 @@
  </p>
   <p align="center">
    <!-- Repo Views -->
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwatson-xd3%2F2FPRECIUOS-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Repo Views Badge">
- <a href="https://github.com/watson-xd3?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/watson-xd3?label=Followers&style=social"></a>
-<a href="https://github.com/watson-xd3/PRECIUOS-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/watson-xd3/PRECIUOS-MD?&style=social"></a>
-<a href="https://github.com/watson-xd3/PRECIUOS-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/watson-xd3/PRECIUOS-MD?style=social"></a>
-<a href="https://github.com/watson-xd3/PRECIUOS-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/watson-xd3/PRECIUOS-MD?label=Watching&style=social"></a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwatson-xd6%2F2FPrecious-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Repo Views Badge">
+ <a href="https://github.com/watson-xd6?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/watson-xd6?label=Followers&style=social"></a>
+<a href="https://github.com/watson-xd6/Precious-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/watson-xd6/Precious-MD?&style=social"></a>
+<a href="https://github.com/watson-xd6/Precious-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/watson-xd6/Precious-MD?style=social"></a>
+<a href="https://github.com/watson-xd6/Precious-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/watson-xd6/Precious-MD?label=Watching&style=social"></a>
 <!-- Repo Size -->
-  <img src="https://img.shields.io/github/repo-size/watson-xd3/PRECIUOS-MD?color=gold&label=Repo%20Size&style=plastic" alt="Repo Size">
+  <img src="https://img.shields.io/github/repo-size/watson-xd6/Precious-MD?color=gold&label=Repo%20Size&style=plastic" alt="Repo Size">
   <!-- Developer -->
   <img src="https://img.shields.io/static/v1?label=OWNER&message=WATSON%20XD&color=blue&style=plastic" alt="Developer Badge">
 </p>        
@@ -38,7 +38,7 @@
 ---------------------
 ```♧FORK THE REPOSITORY♧```
 
-  <a href="https://github.com/watson-xd3/PRECIUOS-MD/fork" target="_blank">
+  <a href="https://github.com/watson-xd6/Precious-MD/fork" target="_blank">
   <img src="https://img.shields.io/badge/FORK STAR-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
@@ -52,7 +52,7 @@
 </a>
 
 <a
-href="https://github.com/watson-xd3/PRECIUOS-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+href="https://github.com/watson-xd6/Precious-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
           
@@ -68,7 +68,7 @@ href="https://github.com/watson-xd3/PRECIUOS-MD/graphs/commit-activity"><img hei
 
 ☉Now Deploy
     <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/watson-xd3/PRECIUOS-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/watson-xd6/Precious-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 #### DEPLOY TO REPLIT
  If You don't have an account in Replit. Create a account.
@@ -77,7 +77,7 @@ href="https://github.com/watson-xd3/PRECIUOS-MD/graphs/commit-activity"><img hei
 
  Now Deploy
     <br>
-    <a href='https://repl.it/github/watson-xd3/PRECIUOS-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
+    <a href='https://repl.it/github/watson-xd6/Precious-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 ## `NEW DEPLOYMENT`
 
@@ -103,7 +103,7 @@ Misusing the bot may result in a ban from WhatsApp. Use at your own risk.
 
 *`✨️ＯＷＮＥＲ✨️`* 
 
-[![WATSON](https://github.com/watson-xd3.png?size=300)](https://github.com/watson-xd3), 
+[![WATSON](https://github.com/watson-xd6.png?size=300)](https://github.com/watson-xd6), 
 
 <br> ✨️✨️✨️✨️✨️✨️✨️✨️✨️✨️✨️✨️✨️✨️✨️✨️
 
