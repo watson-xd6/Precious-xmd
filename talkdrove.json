@@ -1,0 +1,81 @@
+{
+    "bot-name": "Precious-Md",
+    "description": "whatsapp user bot",
+    "logo": "https://files.catbox.moe/2899fa.jpg",
+    "keywords": ["bot"],
+    "documentation-link": "https://watson-xd-bot-pair-qbpz.onrender.com",
+    "owner-verification":"shoroking38@gmail.com",
+  
+      "env": {
+    "SESSION_ID": {
+      "description": "put your session ID here in the box below",
+      "required": true,
+      "value": ""
+    },
+    "BOT_NAME": {
+      "description": "put your BOT a name",
+      "required": true,
+      "value": "Precious-Md"
+    },
+    "OWNER_NUMBER": {
+      "description": "put your Number and name for Owner",
+      "required": true,
+      "value": "263781330745,watsonfourpence🫡The Developer"
+    },
+    "owner_react_emojie": {
+      "description": "put one emojie for owner reacts",
+      "required": false,
+      "value": "🫡"
+    },
+    "MODE": {
+      "description": "choose bot mode public or private",
+      "required": true,
+      "value": "public"
+    },
+    "PREFIX": {
+      "description": "put any one symbol here leave it Blank if you want to use multiple prefix",
+      "required": false,
+      "value": "" 
+    },
+    "ANTI_LINK": {
+      "description": "it will dlt links and kick user",
+      "required": false,
+      "value": "true"
+    },
+    "AutoReaction": {
+      "description": "make it true to react on chats",
+      "required": false,
+      "value": "false"
+    },
+    "autoreactions_emojies": {
+      "description": "put your favourite emojies for AutoReactions on chats or make it empty for all default emojies",
+      "required": false,
+      "value": "💛,🤍,💗,♥️,💞"
+    },
+    "STATUSVIEW": {
+      "description": "make it true to auto view status and likes",
+      "required": false,
+      "value": "true"
+    },
+    "StatusEmojies": {
+      "description": "Add your favorites emojies for status likes",
+      "required": false,
+      "value": "♥️,🤗,❤️,💞,❣️,💙,💛,🤍,💚,😍,🥰,💝,💖,💗,💓,💞,💕,❣️,💘,💟,🖤,🤎,💜,💫,🌸"
+    },
+    "STATUS_MSG": {
+      "description": "Status reply msg",
+      "required": false,
+      "value": "Your Status has been seen by Prince bot"
+     },
+    "PACK_NAME": {
+      "description": "put your stickers pack name",
+      "required": false,
+      "value": "Precious-Md♥️"
+    },
+    "DL_MSG": {
+      "description": "Video downloader caption",
+      "required": true,
+      "value": "_*📥DOWNLOADED SUCCESSFULLY✅*_"
+    } 
+  }
+}
