@@ -37,7 +37,7 @@ cmd({
     }) => {
         try {
 
-            let dec = `*Watson-Xd-Bot Repastitory Information*
+            let dec = `*PRECIOUS-MD Repastitory Information*
 
 *| ɴᴀᴍᴇ*: ᴡᴀᴛꜱᴏɴ-xᴅ-ʙᴏᴛ
 *| ᴏᴡɴᴇʀ*: ᴡᴀᴛꜱᴏɴ ꜰᴏᴜʀᴘᴇɴᴄᴇ 
@@ -46,7 +46,7 @@ cmd({
 
 
 *📡 REPO LINK*
-🔗◦ https://github.com/watson-xd3/Precious-Md.git
+🔗◦ https://github.com/watson-xd6/Precious-Md.git
 
 *📌 SUBSCRIBE MY YOUTUBE CHANNEL*
 🔗◦ https://youtube.com/@watson-official-b8u
