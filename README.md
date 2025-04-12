@@ -1,9 +1,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT; FORGET+SATAR+FORK+MYREPO;CREATED+BY+WATSON FOURPENCE;RELEASED+15-2-2025" alt="Typing SVG" /></a>
-<a><img src='https://i.imgur.com/QxeVvOc.jpeg'/></a>
+<a><img src='https://files.catbox.moe/2899fa.jpg'/></a>
 
  </p>
   <p align="center">
-   <!-- Repo Views -->
+   
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwatson-xd6%2F2FPrecious-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Repo Views Badge">
  <a href="https://github.com/watson-xd6?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/watson-xd6?label=Followers&style=social"></a>
 <a href="https://github.com/watson-xd6/Precious-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/watson-xd6/Precious-MD?&style=social"></a>
@@ -47,7 +47,7 @@
 
 
 
-<a href=""_blank">
+<a href="blank">
   <img src="https://img.shields.io/badge/PAIR CODE-rainbow?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
