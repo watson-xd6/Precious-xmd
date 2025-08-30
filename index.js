@@ -136,7 +136,7 @@ function stopAutoBio() {
 
 // ---------------------- End of Auto Bio Functions ----------------------
 
-/=================== BUTTON HELPERS ===================
+//=================== BUTTON HELPERS ===================
 function convertButtonsToSections(buttons) {
   return [
     {
